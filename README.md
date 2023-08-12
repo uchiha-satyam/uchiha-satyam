@@ -15,6 +15,3 @@
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<div align="center"><img src="https://rm.up.railway.app/" width="512px"/></div>
